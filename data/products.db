@@ -1,0 +1,3 @@
+{"id":"1","title":"Kaffe","desc":"En god kopp kaffe","price":25,"createdAt":{"$$date":1718960201041},"_id":"HpMvaLjwGVBpIoha"}
+{"id":"2","title":"Kaffe 2","desc":"En god kopp kaffe 2","price":25,"createdAt":{"$$date":1718960256527},"_id":"jAqP1RWIiFAAYK2j"}
+{"id":"1","title":"Nytt Kaffe","desc":"En ännu godare kaffe","price":30,"createdAt":{"$$date":1718960201041},"_id":"HpMvaLjwGVBpIoha","modifiedAt":{"$$date":1718960311541}}
