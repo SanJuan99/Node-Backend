@@ -1,4 +1,4 @@
-# Grupp 5
+# Grupp 5/individuell
 
 ## API - END-POINTS:
 
