@@ -12,3 +12,13 @@
 - See delivery stats: https://localhost:8000/api/deliveryStats/:orderID (GET)
   -Update delivery stats: https://localhost:8000/api/deliveryStats/:orderID/? :userID (GET)
 - About: https://localhost:8000/api/about (GET)
+
+individuell:
+
+- Sign up: http://localhost:8000/users/signUp (POST)
+- Log in: http://localhost:8000/users/login (POST)
+- Add product: http://localhost:8000/menu (POST)
+- Modify product: http://localhost:8000/menu/<id> (PUT)
+- Delete product: http://localhost:8000/menu/<_id> (DELETE)
+- Create campaign: http://localhost:8000/campaigns (POST)
+- Get products: http://localhost:8000/menu (GET)
